@@ -98,6 +98,6 @@ How to Use:
    Description: The automated security audit report highlighting weak and duplicate passwords
 
 ## Author
-JUTT
+ABDULLAH JUTT
 SCD Semester Project
 CyberVault v2.0 - Identity Manager
