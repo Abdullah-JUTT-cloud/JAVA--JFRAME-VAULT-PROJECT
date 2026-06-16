@@ -99,5 +99,4 @@ How to Use:
 
 ## Author
 ABDULLAH JUTT
-SCD Semester Project
-CyberVault v2.0 - Identity Manager
+SCD Semester Project.
